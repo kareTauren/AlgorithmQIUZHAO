@@ -52,22 +52,40 @@ for l <= r {
 以上是在一个有序数组中查找一个元素是否存在的最基本模板。
 
 HomeWork 完成情况
+
 ◉	[多数元素](https://leetcode-cn.com/problems/majority-element/description/)
+
 ◉	[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)
+
 ◉	[买卖股票的最佳时机 2](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+
 ◉	[分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/)
+
 ◉	[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/)
+
 ◉	[Pow(x, y)](https://leetcode-cn.com/problems/powx-n/)
+
 ◉	[子集](https://leetcode-cn.com/problems/subsets/)
+
 ◉	[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+
 ◎	[单词接龙](https://leetcode-cn.com/problems/word-ladder/description/)
+
 ◉	[岛屿个数](https://leetcode-cn.com/problems/number-of-islands/)
+
 ◎	[扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/)
+
 ◎	[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+
 ◎	[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
 ◉	[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+
 ◉	[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+
 ◉	[N queen](https://leetcode-cn.com/problems/n-queens/)
+
 ◎	[单词接龙](https://leetcode-cn.com/problems/word-ladder-ii/description/)2
+
 ◎	[跳跃游戏2](https://leetcode-cn.com/problems/jump-game-ii/)
 
