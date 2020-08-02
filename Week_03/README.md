@@ -52,6 +52,7 @@ for l <= r {
 以上是在一个有序数组中查找一个元素是否存在的最基本模板。
 
 HomeWork 完成情况
+
 ◉	[多数元素](https://leetcode-cn.com/problems/majority-element/description/)
 ◉	[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)
 ◉	[买卖股票的最佳时机 2](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
